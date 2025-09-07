@@ -1,2 +1,2 @@
-# ZC-Wallet
-Zenchain project new wallet
+# ZC-NFT
+Zenchain project new NFT
